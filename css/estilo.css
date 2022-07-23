@@ -8,6 +8,8 @@ html {
  }
  
  body {
+  background: url(/img/fondo.jpg);
+  background-color: #333333;
    height: 100%;
    min-height: 100%;
  }
