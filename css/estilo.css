@@ -30,3 +30,19 @@ html {
    text-decoration: none;
    color: inherit;
  }
+
+ .pantone-azul{
+   background-color:#202945;
+ }
+
+ .pantone-azul-claro{
+   background-color:#5e6680;
+ }
+
+ .pantone-verde{
+   background-color:#8F993E;
+ }
+
+ .pantone-verde-claro{
+   background-color:#c6cc95;
+ }
